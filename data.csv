@@ -1,0 +1,51 @@
+bank,merchant_name,merchant_token,cc_num,card_type,amount
+Capitol One,Petco,Za1reQlY,12375,Debit,171.74
+Visa,Petco,Za1reQlY,4123287382738270,Credit,171.36
+Capitol One,Petco,Za1reQlY,12375,Debit,123.74
+MasterCard,GameStop,CWqeG5D9,5559329829839820,Credit,45.08
+AmericanExpress,Michaels,XQ3nFakN,374839820938083,Credit,243
+AmericanExpress,Lowes,LHYnBgkO,348398239429389,Credit,98.22
+AmericanExpress,Red Rock Bicycles,c2JlZZK0,343482034295006,Credit,1845.87
+Capitol One,Costco,Bh1vFywo,12375,Debit,567.87
+Capitol One,Steven Wade,R9noIpS3,12382,Dedit,5000.35
+Capitol One,T-Mobile,fjsUbsS4,12333,Debit,4390.86
+Chase,Red Rock Bicycles,c2JlZZK0,12386,Debit,4203.02
+Chase,Costco,Bh1vFywo,12390,Debit,239.46
+Chase,Utah Tech Book Store,juVCKhm5,12393,Debit,69.99
+Wells Fargo,UPS,NfWMtPpL,12347,Debit,123.45
+Wells Fargo,Costco,Bh1vFywo,12345,Debit,542.32
+MasterCard,Bed Bath & Beyond,buEndUhE,5193829839276330,Credit,418.23
+MasterCard,Lowes,LHYnBgkO,5559329829839820,Credit,844.47
+Visa,Michaels,XQ3nFakN,4323423434342340,Credit,987.11
+Capitol One,Utah Tech Book Store,juVCKhm5,12377,Debit,34.99
+Chase,Steven Wade,R9noIpS3,12393,Debit,186.98
+Chase,Camping World,btG6RPSR,12386,Debit,9674.23
+AmericanExpress,Phat Axe,Bx4VqkDM,374392094203944,Credit,354.22
+Bank of America,Party City,DI2hHV9W,12356,Debit,75.47
+Bank of America,Red Rock Bicycles,c2JlZZK0,12362,Debit,348.84
+Chase,Ulta Beauty,Ll114uWM,12392,Debit,145.21
+MasterCard,Costco,Bh1vFywo,5559329829839820,Credit,78.63
+Visa,Bed Bath & Beyond,buEndUhE,4193839489384930,Credit,127.49
+AmericanExpress,Big 5,7yoshIX,372938092803983,Credit,638.74
+AmericanExpress,Chic Fil a,eiL0kCIG,374839840938208,Credit,342.58
+US Bank,T-Mobile,fjsUbsS4,12368,Debit,12.22
+US Bank,Michaels,XQ3nFakN,12371,Debit,4560.55
+Chase,Utah Tech Book Store,juVCKhm5,12388,Debit,74.37
+Visa,Lowes,LHYnBgkO,4389483949384980,Credit,658.67
+MasterCard,Laser Mania,Eo3rrslL,5193989829829380,Credit,43.35
+MasterCard,UPS,NfWMtPpL,5439849839489380,Credit,1.53
+Visa,Steven Wade,R9noIpS3,4193839489384930,Credit,6712.21
+Chase,FedEx,nszJcPm9,12345,Debit,447.85
+US Bank,Red Rock Bicycles,c2JlZZK0,12374,Debit,99.23
+Bank of America,Ulta Beauty,Ll114uWM,12357,Debit,46.99
+Wells Fargo,Bed Bath & Beyond,buEndUhE,12347,Debit,789.22
+Capitol One,Laser Mania,Eo3rrslL,12375,Debit,52.99
+Capitol One,Michaels,XQ3nFakN,12383,Debit,38.18
+Bank of America,Party City,DI2hHV9W,12345,Debit,97.69
+Wells Fargo,Steven Wade,R9noIpS3,12350,Debit,123.11
+Visa,Camping World,btG6RPSR,4374837847837480,Credit,55.55
+Visa,Chic Fil a,eiL0kCIG,4193839489384930,Credit,409.77
+MasterCard,UPS,NfWMtPpL,5193482093849340,Credit,1457.20
+Bank of America,Lowes,LHYnBgkO,12362,Debit,154.32
+Wells Fargo,Big 5,7yoshIX,12347,Debit,489.38
+US Bank,Red Rock Bicycles,c2JlZZK0,12368,Debit,7893.21

@@ -1,0 +1,106 @@
+{"message": "Approved"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Approved"}
+{"message": "Approved"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Approved"}
+{"message": "Approved"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Approved"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Approved"}
+{"message": "Invalid card type. Must be 'Credit' or 'Debit'"}
+{"message": "Error - Bad Bank or Account Number"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Approved"}
+{"message": "Approved"}
+{"message": "Approved"}
+{"message": "Approved"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Approved"}
+{"message": "Approved"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Approved"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Merchant not Authorized"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Approved"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Approved"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Approved"}
+{"message": "Approved"}
+{"message": "Approved"}
+{"message": "Approved"}
+{"message": "Approved"}
+{"message": "Approved"}
+{"message": "Approved"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Merchant not Authorized"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Approved"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Approved"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Bank Not Available"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Approved"}
+{"message": "Invalid card type. Must be 'Credit' or 'Debit'"}
+{"message": "Error - Bad Bank or Account Number"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Bank Not Available"}
+{"message": "Approved"}
+{"message": "Approved"}
+{"message": "Approved"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Approved"}
+{"message": "Approved"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Approved"}
+{"message": "Bank Not Available"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Merchant not Authorized"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Approved"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Approved"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Bank Not Available"}
+{"message": "Approved"}
+{"message": "Approved"}
+{"message": "Approved"}
+{"message": "Approved"}
+{"message": "Bank Not Available"}
+{"message": "Bank Not Available"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Bank Not Available"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Declined. Insufficient Funds"}
+{"message": "Merchant not Authorized"}
+{"message": "Declined. Insufficient Funds"}
