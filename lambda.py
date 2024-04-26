@@ -3,6 +3,7 @@ import boto3
 from decimal import Decimal
 import datetime
 import random  # Import for generating random numbers
+#CI/CD works!
 
 # Initialize DynamoDB client
 dynamodb = boto3.resource('dynamodb')
