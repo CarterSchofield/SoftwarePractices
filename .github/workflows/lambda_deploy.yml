@@ -29,4 +29,3 @@ jobs:
           AWS_REGION: 'us-east-1'
         run: |
           aws lambda update-function-code --function-name lambda --zip-file fileb://my-deployment-package.zip
-
