@@ -20,4 +20,4 @@ jobs:
         aws-region: us-east-1
 
     - name: Update Lambda function
-      run: aws lambda update-function-code --function-name lambda --zip-file fileb://path/to/my-deployment-package.zip
+      run: aws lambda update-function-code --function-name lambda --zip-file fileb:my-deployment-package.zip
